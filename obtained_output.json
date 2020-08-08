@@ -1,0 +1,52 @@
+{
+    "company": [
+        "1",
+        "0"
+    ],
+    "applicationSignatureDate": [
+        "2020-06-15"
+    ],
+    "applicationReceivedDate": [
+        "2020-06-15"
+    ],
+    "coverageChangeEffectiveDate": [
+        "2020-06-15"
+    ],
+    "getCoverageMaintenanceToken": [
+        "F2Kw==",
+        "F2Bg=="
+    ],
+    "policyInformation": {
+        "Number": "R000000002",
+        "companyCode": "PLI",
+        "insuredPersonInformation": {
+            "insuredPersonInformationList": {
+                "person": {
+                    "personNumber": "1",
+                    "nameComponents": {
+                        "nameType": "",
+                        "firstName": "Rrr",
+                        "lastName": "Ktr                          "
+                    }
+                },
+                "insuredCoverages": {
+                    "insuredCoverage": {
+                        "productCode": "GIL",
+                        "productDescription": "Whole Life",
+                        "baseRiderIndicator": "B",
+                        "inflatedBenefitAmount": {
+                            "inflatedBenefitAmount": "5000.0"
+                        },
+                        "premiumClass": {
+                            "coverageStatus": "A01",
+                            "singlePayAmount": "0.0",
+                            "preArrangedBenefit": "0.0",
+                            "guaranteedBenefitAmount": "0.0",
+                            "increaseType": ""
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
