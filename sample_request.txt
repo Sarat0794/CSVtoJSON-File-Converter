@@ -1,0 +1,61 @@
+[
+   {
+      "applicationSignatureDate": "2020-07-29",
+      "applicationReceivedDate": "2020-07-29",
+      "coverageChangeEffectiveDate": "2020-07-29",
+      "getCoverageMaintenanceToken": "F2vqNzPLJ3TWBFUIhhGWDv52VCAwt+rjqiCTKIxsbfsO8YvVL1z8/hgQAQ==",
+      "policyInformation": {
+         "Number": "R000000001",
+         "companyCode": "PLI",
+         "insuredPersonInformation": {
+            "insuredPersonInformationList": [
+               {
+                  "person": [
+                     {
+                        "personNumber": "1",
+                        "nameComponents": {
+                           "nameType": "B",
+                           "firstName": "Gggg",
+                           "lastName": "Rrr"
+                        },
+                        "primaryAddress": {
+                           "addressType": "D",
+                           "addressLine1": "2 Section Rd",
+                           "cityName": "Green",
+                           "stateCode": "AX",
+                           "zipCode": "357508776"
+                        }
+                     }
+                  ],
+                  "insuredCoverages": {
+                     "insuredCoverage": [
+                        {
+                           "coverageRecordNumber": "1",
+                           "insuredRelation": "I",
+                           "planCode": {
+                              "code": "L770000P0"
+                           },
+                           "productCode": "GIL",
+                           "productDescription": "Whole Life",
+                           "baseRiderIndicator": "B",
+                           "sumTotalCoverageAmount": {
+                              "amt": 10000
+                           },
+                           "inflatedBenefitAmount": 10000,
+                           "premiumClass": {
+                              "code": "N"
+                           },
+                           "coverageStatus": "A01",
+                           "singlePayAmount": 0,
+                           "preArrangedBenefit": 0,
+                           "guaranteedBenefitAmount": "100",
+                           "increaseType": "R"
+                        }
+                     ]
+                  }
+               }
+            ]
+         }
+      }
+   }
+]
