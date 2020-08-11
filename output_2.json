@@ -1,0 +1,930 @@
+[
+    {
+        "applicationSignatureDate": "6/15/2020",
+        "applicationReceivedDate": "6/15/2020",
+        "coverageChangeEffectiveDate": "6/15/2020",
+        "getCoverageMaintenanceToken": "F2Bg==",
+        "policyInformation": {
+            "Number": "R000000001",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Gggg",
+                                    "lastName": "New                        "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Green                 ",
+                                    "addressLine1": "2 Section Rd                          ",
+                                    "stateCode": "AX",
+                                    "zipCode": "357508776"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/15/2020",
+        "applicationReceivedDate": "6/15/2020",
+        "coverageChangeEffectiveDate": "6/15/2020",
+        "getCoverageMaintenanceToken": "F2Kw==",
+        "policyInformation": {
+            "Number": "R000000002",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Rrr",
+                                    "lastName": "Ktr                          "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Colgate                     ",
+                                    "addressLine1": "8 Saint Augu Rd                        ",
+                                    "stateCode": "AY",
+                                    "zipCode": "53017"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/16/2020",
+        "applicationReceivedDate": "6/16/2020",
+        "coverageChangeEffectiveDate": "6/16/2020",
+        "getCoverageMaintenanceToken": "F2Dg==",
+        "policyInformation": {
+            "Number": "R000000003",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Gggg",
+                                    "lastName": "New                        "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Green                 ",
+                                    "addressLine1": "2 Section Rd                          ",
+                                    "stateCode": "AX",
+                                    "zipCode": "357508776"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/16/2020",
+        "applicationReceivedDate": "6/16/2020",
+        "coverageChangeEffectiveDate": "6/16/2020",
+        "getCoverageMaintenanceToken": "F2Dw==",
+        "policyInformation": {
+            "Number": "R000000004",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Rrr",
+                                    "lastName": "Ktr                          "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Colgate                     ",
+                                    "addressLine1": "8 Saint Augu Rd                        ",
+                                    "stateCode": "AY",
+                                    "zipCode": "53017"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/17/2020",
+        "applicationReceivedDate": "6/17/2020",
+        "coverageChangeEffectiveDate": "6/17/2020",
+        "getCoverageMaintenanceToken": "F2BPg==",
+        "policyInformation": {
+            "Number": "R000000005",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Gggg",
+                                    "lastName": "New                        "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Green                 ",
+                                    "addressLine1": "2 Section Rd                          ",
+                                    "stateCode": "AX",
+                                    "zipCode": "357508776"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/17/2020",
+        "applicationReceivedDate": "6/17/2020",
+        "coverageChangeEffectiveDate": "6/17/2020",
+        "getCoverageMaintenanceToken": "F2Pw==",
+        "policyInformation": {
+            "Number": "R000000006",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Rrr",
+                                    "lastName": "Ktr                          "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Colgate                     ",
+                                    "addressLine1": "8 Saint Augu Rd                        ",
+                                    "stateCode": "AY",
+                                    "zipCode": "53017"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/18/2020",
+        "applicationReceivedDate": "6/18/2020",
+        "coverageChangeEffectiveDate": "6/18/2020",
+        "getCoverageMaintenanceToken": "nhqyGdnRsghjkeygx5h7fhjvBg==",
+        "policyInformation": {
+            "Number": "R000000007",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Gggg",
+                                    "lastName": "New                        "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Green                 ",
+                                    "addressLine1": "2 Section Rd                          ",
+                                    "stateCode": "AX",
+                                    "zipCode": "357508776"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/18/2020",
+        "applicationReceivedDate": "6/18/2020",
+        "coverageChangeEffectiveDate": "6/18/2020",
+        "getCoverageMaintenanceToken": "ghed67ghhsjgvhsgshhd9w==",
+        "policyInformation": {
+            "Number": "R000000008",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Rrr",
+                                    "lastName": "Ktr                          "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Colgate                     ",
+                                    "addressLine1": "8 Saint Augu Rd                        ",
+                                    "stateCode": "AY",
+                                    "zipCode": "53017"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/15/2020",
+        "applicationReceivedDate": "6/15/2020",
+        "coverageChangeEffectiveDate": "6/15/2020",
+        "getCoverageMaintenanceToken": "F2Bg11==",
+        "policyInformation": {
+            "Number": "R000000009",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Gggg",
+                                    "lastName": "New                        "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Green                 ",
+                                    "addressLine1": "2 Section Rd                          ",
+                                    "stateCode": "AX",
+                                    "zipCode": "357508776"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/15/2020",
+        "applicationReceivedDate": "6/15/2020",
+        "coverageChangeEffectiveDate": "6/15/2020",
+        "getCoverageMaintenanceToken": "F2Kw12==",
+        "policyInformation": {
+            "Number": "R0000000010",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Rrr",
+                                    "lastName": "Ktr                          "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Colgate                     ",
+                                    "addressLine1": "8 Saint Augu Rd                        ",
+                                    "stateCode": "AY",
+                                    "zipCode": "53017"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/16/2020",
+        "applicationReceivedDate": "6/16/2020",
+        "coverageChangeEffectiveDate": "6/16/2020",
+        "getCoverageMaintenanceToken": "F2Dg13==",
+        "policyInformation": {
+            "Number": "R0000000011",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Gggg",
+                                    "lastName": "New                        "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Green                 ",
+                                    "addressLine1": "2 Section Rd                          ",
+                                    "stateCode": "AX",
+                                    "zipCode": "357508776"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/16/2020",
+        "applicationReceivedDate": "6/16/2020",
+        "coverageChangeEffectiveDate": "6/16/2020",
+        "getCoverageMaintenanceToken": "F2Dw14==",
+        "policyInformation": {
+            "Number": "R0000000012",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Rrr",
+                                    "lastName": "Ktr                          "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Colgate                     ",
+                                    "addressLine1": "8 Saint Augu Rd                        ",
+                                    "stateCode": "AY",
+                                    "zipCode": "53017"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/17/2020",
+        "applicationReceivedDate": "6/17/2020",
+        "coverageChangeEffectiveDate": "6/17/2020",
+        "getCoverageMaintenanceToken": "F2BPg15==",
+        "policyInformation": {
+            "Number": "R0000000013",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Gggg",
+                                    "lastName": "New                        "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Green                 ",
+                                    "addressLine1": "2 Section Rd                          ",
+                                    "stateCode": "AX",
+                                    "zipCode": "357508776"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/17/2020",
+        "applicationReceivedDate": "6/17/2020",
+        "coverageChangeEffectiveDate": "6/17/2020",
+        "getCoverageMaintenanceToken": "F2Pw1678==",
+        "policyInformation": {
+            "Number": "R0000000014",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Rrr",
+                                    "lastName": "Ktr                          "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Colgate                     ",
+                                    "addressLine1": "8 Saint Augu Rd                        ",
+                                    "stateCode": "AY",
+                                    "zipCode": "53017"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/18/2020",
+        "applicationReceivedDate": "6/18/2020",
+        "coverageChangeEffectiveDate": "6/18/2020",
+        "getCoverageMaintenanceToken": "nhqyGdnRsghjkeygx5h7fhjvBghello==",
+        "policyInformation": {
+            "Number": "R0000000015",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Gggg",
+                                    "lastName": "New                        "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Green                 ",
+                                    "addressLine1": "2 Section Rd                          ",
+                                    "stateCode": "AX",
+                                    "zipCode": "357508776"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "applicationSignatureDate": "6/18/2020",
+        "applicationReceivedDate": "6/18/2020",
+        "coverageChangeEffectiveDate": "6/18/2020",
+        "getCoverageMaintenanceToken": "ghed67ghhsjgvhsgshhd9world==",
+        "policyInformation": {
+            "Number": "R0000000016",
+            "companyCode": "PLI",
+            "insuredPersonInformation": {
+                "insuredPersonInformationList": [
+                    {
+                        "person": [
+                            {
+                                "personNumber": "1",
+                                "nameComponents": {
+                                    "nameType": "",
+                                    "firstName": "Rrr",
+                                    "lastName": "Ktr                          "
+                                },
+                                "primaryAddress": {
+                                    "cityName": "Colgate                     ",
+                                    "addressLine1": "8 Saint Augu Rd                        ",
+                                    "stateCode": "AY",
+                                    "zipCode": "53017"
+                                }
+                            }
+                        ],
+                        "insuredCoverages": {
+                            "insuredCoverage": [
+                                {
+                                    "coverageRecordNumber": "1",
+                                    "insuredRelation": "I",
+                                    "productCode": "GIL",
+                                    "productDescription": "Whole Life",
+                                    "baseRiderIndicator": "B",
+                                    "inflatedBenefitAmount": "5000",
+                                    "premiumClass": {
+                                        "code": "N"
+                                    },
+                                    "coverageStatus": "A01",
+                                    "singlePayAmount": "0",
+                                    "preArrangedBenefit": "0",
+                                    "guaranteedBenefitAmount": "0",
+                                    "increaseType": "",
+                                    "planCode": {
+                                        "code": "L77P0"
+                                    },
+                                    "sumTotalCoverageAmount": {
+                                        "amt": "5000"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
